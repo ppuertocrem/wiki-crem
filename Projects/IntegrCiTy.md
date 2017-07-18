@@ -3,8 +3,13 @@
 * Project leader: **HEIG-VD** _(EPFL-EnergyCenter until March 2017)_
 * Website: [IntegrCiTy by EPFL](http://energycenter.epfl.ch/integrcity "IntegrCiTy's Homepage")
 
-some code:
+some code (GitHub style):
 ```
 def foo():
     print('BAR')
 ```
+
+some other code (Kramdown style):
+~~~~~~~~
+Here comes some code.
+~~~~~~~~
